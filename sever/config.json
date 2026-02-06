@@ -1,4 +1,5 @@
 {
   "enabled": true,
-  "password": "6969"
+  "password": "6969",
+  "ecx_freeze_enabled": true
 }
