@@ -1,8 +1,9 @@
 {
   "enabled": true,
   "password": "1541",
-  "ecx_freeze_enabled": true
+  "ecx_freeze_enabled": false
 }
+
 
 
 
